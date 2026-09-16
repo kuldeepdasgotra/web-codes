@@ -1,0 +1,31 @@
+body{
+background-color:ghostwhite;
+}
+
+	#GCET{
+color:red;
+}
+
+img{
+display:block;
+margin:auto;
+}
+
+img{
+width:150px;
+height:150px;
+border-radius:50%;
+}
+
+table{
+border:2px solid #33;
+}
+
+th, td{
+border:2px solid;
+padding:5px;
+}
+
+p{
+font-size:20px;
+}
